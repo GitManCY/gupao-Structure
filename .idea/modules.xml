@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ELK/gupaoedu-vip-elasticsearch/gupaoedu-vip-elasticsearch.iml" filepath="$PROJECT_DIR$/ELK/gupaoedu-vip-elasticsearch/gupaoedu-vip-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-client/rmi-client.iml" filepath="$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-client/rmi-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-server/rmi-server.iml" filepath="$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-server/rmi-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式篇/01-序列化和反序列化/serializer-demo/serializer-demo.iml" filepath="$PROJECT_DIR$/分布式篇/01-序列化和反序列化/serializer-demo/serializer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/项目实战篇/user-service/user-api/user-api.iml" filepath="$PROJECT_DIR$/项目实战篇/user-service/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/项目实战篇/user-service/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/项目实战篇/user-service/user-provider/user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/沽泡学院-架构篇.iml" filepath="$PROJECT_DIR$/.idea/沽泡学院-架构篇.iml" />
+    </modules>
+  </component>
+</project>

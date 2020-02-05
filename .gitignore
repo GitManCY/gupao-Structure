@@ -1,0 +1,3 @@
+# Project exclude paths
+/ELK/gupaoedu-vip-elasticsearch/target/
+/分布式篇/01-序列化和反序列化/serializer-demo/target/

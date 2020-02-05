@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ELK/gupaoedu-vip-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/分布式篇/01-序列化和反序列化/serializer-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-server" charset="UTF-8" />
+  </component>
+</project>

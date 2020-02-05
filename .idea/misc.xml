@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/微服务篇/micservices/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式篇/01-序列化和反序列化/serializer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-client/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式篇/02-rmi框架源码重构/rmi/rmi-server/pom.xml" />
+        <option value="$PROJECT_DIR$/项目实战篇/user-service/user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/项目实战篇/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ELK/gupaoedu-vip-elasticsearch/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
